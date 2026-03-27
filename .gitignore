@@ -1,0 +1,16 @@
+# Flutter/Dart/Pub stuff
+**/build/
+**/.dart_tool/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/android/.gradle/
+**/android/app/build/
+pubspec.lock
+
+
+VS Code stuff
+.vscode/
+
+# Mac stuff
+.DS_Store
