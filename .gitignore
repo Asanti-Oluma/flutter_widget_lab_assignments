@@ -8,8 +8,7 @@
 **/android/app/build/
 pubspec.lock
 
-
-VS Code stuff
+# VS Code stuff
 .vscode/
 
 # Mac stuff
