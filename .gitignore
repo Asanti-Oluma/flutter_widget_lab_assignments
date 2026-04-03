@@ -1,4 +1,4 @@
-# Flutter/Dart/Pub stuff
+nano .gitignore# Flutter/Dart/Pub stuff
 **/build/
 **/.dart_tool/
 **/ios/Flutter/Flutter.framework
